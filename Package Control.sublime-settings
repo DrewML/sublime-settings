@@ -1,0 +1,30 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Babel",
+		"BracketHighlighter",
+		"Chai Completions",
+		"Emmet",
+		"GitGutter",
+		"Inc-Dec-Value",
+		"Indent Size",
+		"JsFormat",
+		"JsRun",
+		"JSX",
+		"LESS",
+		"Markdown Extended",
+		"Markdown Preview",
+		"Material Theme",
+		"Package Control",
+		"Schemr",
+		"SCSS",
+		"Seti_UI",
+		"SideBarEnhancements",
+		"Themr"
+	]
+}
