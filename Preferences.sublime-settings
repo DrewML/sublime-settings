@@ -3,10 +3,11 @@
 	[
 		".git/",
 		"node_modules/*",
-		"build/*",
-		"bower_components/*"
+		"bower_components/*",
+		"tmp/",
+		"dist"
 	],
-	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker-OceanicNext.tmTheme",
 	"folder_exclude_patterns":
 	[
 		".svn",
@@ -20,6 +21,6 @@
 		"Vintage"
 	],
 	"tab_size": 4,
-	"theme": "Material-Theme.sublime-theme",
+	"theme": "Material-Theme-Darker.sublime-theme",
 	"translate_tabs_to_spaces": true
 }
